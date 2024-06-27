@@ -12,7 +12,7 @@ Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
 [Headers](#headers)  
-[Emphasis](#emphasis)
+[Emphasis](#emphasis)  
 [Lora](#lora)  
 
 
@@ -37,9 +37,7 @@ Contributions: Your specific role and contributions to the project.
 .
 
 
-
-
-<c name="lora"/>
+<name="lora"/>
 ## Lora
 
 
