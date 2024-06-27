@@ -12,8 +12,9 @@ Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
 [Headers](#headers)  
-[Emphasis](#emphasis)  
-[Lora](#lora)
+[Emphasis](#emphasis)
+[Lora](#lora)  
+
 
 ...snip...    
 <a name="headers"/>
