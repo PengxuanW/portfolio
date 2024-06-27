@@ -13,7 +13,7 @@ Contributions: Your specific role and contributions to the project.
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-[LoRA Finetuning for Automating Code Generation](#lora)
+[LoRA](#lora)
 
 ...snip...    
 <a name="headers"/>
@@ -39,7 +39,7 @@ Contributions: Your specific role and contributions to the project.
 
 
 <c name="lora"/>
-## LoRA Finetuning for Automating Code Generation
+## LoRA
 
 ![alt text](https://github.com/PengxuanW/portfolio/blob/main/images/Screenshot%202024-06-14%20183854.png?raw=true)
 
