@@ -14,6 +14,7 @@ Contributions: Your specific role and contributions to the project.
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 [Lora](#lora)  
+[TextEditor](#texteditor)  
 
 
 ...snip...    
@@ -39,6 +40,8 @@ Contributions: Your specific role and contributions to the project.
 
 <name="lora"/>
 ## Lora
+
+## TextEditor
 
 
 ![alt text](https://github.com/PengxuanW/portfolio/blob/main/images/Screenshot%202024-06-14%20183854.png?raw=true)
