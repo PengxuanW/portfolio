@@ -42,6 +42,7 @@ Contributions: Your specific role and contributions to the project.
 ## Lora
 
 ## TextEditor
+
 A programming project in C++ called BooEdit.
 This project implements a simpler version of typical editors like vim or emacs. While it doesn't handle txt-file loading or saving, this program implements key features such as cursor movement, text insertion, deletion, and undo/redo functionality. BooEdit serves as a basis for exploring important C++ and object-oriented programming concepts. These include using C++ Standard Library classes to manage memory, handling exceptions safely, employing abstract base classes for customizable implementations, and implementing the Command pattern for undoable actions. BooEdit is partially implemented, requiring contributions to specific parts, simulating a common real-world software development scenario.
 
@@ -66,6 +67,7 @@ User Interface:
   * Ctrl + Z = undo
   * Ctrl + A = redo
   * ...
+
 ![class files](https://github.com/PengxuanW/portfolio/blob/main/images/TextEditClassFiles.png?raw=true)
 
 BooEdit follows the Command pattern:
