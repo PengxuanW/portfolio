@@ -16,15 +16,14 @@ Contributions: Your specific role and contributions to the project.
 [Lora](#lora)  
 [TextEditor](#texteditor)  
     
-<a name="headers"/>
 ## Headers
 
-<b name="emphasis"/>
+
 ## Emphasis
 
 
-<name="lora"/>
 ## Lora
+
 
 # TextEditor
 https://github.com/PengxuanW/TextEditorProject
