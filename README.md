@@ -15,27 +15,12 @@ Contributions: Your specific role and contributions to the project.
 [Emphasis](#emphasis)  
 [Lora](#lora)  
 [TextEditor](#texteditor)  
-
-
-...snip...    
+    
 <a name="headers"/>
 ## Headers
-.
-.
-.
-..
-.
-.
-..
-.
+
 <b name="emphasis"/>
 ## Emphasis
-.
-.
-.
-..
-.
-.
 
 
 <name="lora"/>
@@ -67,7 +52,7 @@ User Interface:
   - Ctrl + H = backspace
   - Ctrl + Z = undo
   - Ctrl + A = redo
-  - ...
+  - ......
 
 ![class files](https://github.com/PengxuanW/portfolio/blob/main/images/TextEditClassFiles.png?raw=true)
 
