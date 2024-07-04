@@ -41,7 +41,7 @@ Contributions: Your specific role and contributions to the project.
 <name="lora"/>
 ## Lora
 
-## TextEditor
+# TextEditor
 https://github.com/PengxuanW/TextEditorProject
 
 A programming project in C++ called BooEdit.
@@ -87,4 +87,4 @@ The program uses a custom EditorModel class to maintain the underlying data - th
 
 ![alt text](https://github.com/PengxuanW/portfolio/blob/main/images/Screenshot%202024-06-14%20183854.png?raw=true)
 
-
+bold test
