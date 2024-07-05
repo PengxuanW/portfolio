@@ -11,12 +11,13 @@ Screenshots/Demos: Visual representations or links to live demos or GitHub repos
 Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
-[Headers](#headers)  
+[ElectronicsSystemIdentification](#electronicssystemidentification)  
 [Emphasis](#emphasis)  
 [Lora](#lora)  
 [TextEditor](#texteditor)  
     
-## Headers
+## ElectronicsSystemIdentification
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="200"/>
 
 
 ## Emphasis
