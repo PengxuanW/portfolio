@@ -13,7 +13,7 @@ Contributions: Your specific role and contributions to the project.
 ##### Table of Contents  
 [Electronics_Subsystem_Identification](#electronics_subsystem_identification)  
 [Micro_HVAC_System](#micro_hvac_system)  
-[LoRA_finetuning](#lora)  
+[LoRA_finetuning](#lora_finetuning)  
 [Text_Editor](#text_editor)  
     
 # Electronics_Subsystem_Identification
