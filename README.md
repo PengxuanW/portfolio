@@ -11,23 +11,23 @@ Screenshots/Demos: Visual representations or links to live demos or GitHub repos
 Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
-[Electronics System Identification](#electronicssystemidentification)  
-[Micro HVAC System](#micro hvac system)  
+[Electronics_System_Identification](#electronicssystemidentification)  
+[Micro_HVAC_System](#microhvacsystem)  
 [Lora](#lora)  
-[TextEditor](#texteditor)  
+[Text_Editor](#texteditor)  
     
-## Electronics System Identification
+# Electronics_System_Identification
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="200"/>
 
 
-## Micro HVAC System
+# Micro_HVAC_System
 https://github.com/PengxuanW/Mock-HVAC-System
 
 
-## Lora
+# Lora
 
 
-# TextEditor
+# Text_Editor
 https://github.com/PengxuanW/TextEditorProject
 
 A programming project in C++ called BooEdit.
