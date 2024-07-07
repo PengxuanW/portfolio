@@ -11,12 +11,12 @@ Screenshots/Demos: Visual representations or links to live demos or GitHub repos
 Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
-[Electronics_System_Identification](#electronic_ssystem_identification)  
+[Electronics_Subsystem_Identification](#electronics_subsystem_identification)  
 [Micro_HVAC_System](#micro_hvac_system)  
 [Lora](#lora)  
 [Text_Editor](#text_editor)  
     
-# Electronics_System_Identification
+# Electronics_Subsystem_Identification
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="200"/>
 
 
