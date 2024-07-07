@@ -13,7 +13,7 @@ Contributions: Your specific role and contributions to the project.
 ##### Table of Contents  
 [Electronics_Subsystem_Identification](#electronics_subsystem_identification)  
 [Micro_HVAC_System](#micro_hvac_system)  
-[Lora](#lora)  
+[LoRA_finetuning](#lora)  
 [Text_Editor](#text_editor)  
     
 # Electronics_Subsystem_Identification
@@ -24,7 +24,9 @@ Contributions: Your specific role and contributions to the project.
 https://github.com/PengxuanW/Mock-HVAC-System
 
 
-# Lora
+# LoRA_finetuning
+https://github.com/PengxuanW/code_gen_with_LoRA_finetuning
+
 
 
 # Text_Editor
