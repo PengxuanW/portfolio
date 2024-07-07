@@ -11,16 +11,17 @@ Screenshots/Demos: Visual representations or links to live demos or GitHub repos
 Contributions: Your specific role and contributions to the project.
 
 ##### Table of Contents  
-[ElectronicsSystemIdentification](#electronicssystemidentification)  
-[Emphasis](#emphasis)  
+[Electronics System Identification](#electronicssystemidentification)  
+[Micro HVAC System](#micro hvac system)  
 [Lora](#lora)  
 [TextEditor](#texteditor)  
     
-## ElectronicsSystemIdentification
+## Electronics System Identification
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="200"/>
 
 
-## Emphasis
+## Micro HVAC System
+https://github.com/PengxuanW/Mock-HVAC-System
 
 
 ## Lora
