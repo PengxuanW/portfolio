@@ -5,15 +5,12 @@ Welcome to my personal portfolio! I am a new grad from University of California,
 
 Both my academic and professional journeys are fueled by a passion for technology and innovation. Here, you'll find a showcase of my projects, skills, and experiences that reflect my commitment to learning and growth in embedded systems, electronics designs, software development and machine learning. Whether it's designing systems, coding applications, or exploring new tech frontiers, I am excited to share my work and progress with you. Thank you for visiting and happy exploring!
 
-Title and Description: A brief overview of the project and its purpose.
-Technologies Used: List of programming languages, tools, and frameworks utilized.
-Screenshots/Demos: Visual representations or links to live demos or GitHub repositories.
-Contributions: Your specific role and contributions to the project.
+These projects involve various programming languages namingly: Python, Java, C/C++, and Swift. Some projects are done individually by me, and some projects are done collaboratively. 
 
 ##### Table of Contents  
 [Electronics_Subsystem_Identification](#electronics_subsystem_identification)  
 [Micro_HVAC_System](#micro_hvac_system)  
-[LoRA_finetuning](#lora_finetuning)  
+[LoRA_Finetuning](#lora_finetuning)  
 [Text_Editor](#text_editor)  
     
 # Electronics_Subsystem_Identification
@@ -24,7 +21,7 @@ Contributions: Your specific role and contributions to the project.
 https://github.com/PengxuanW/Mock-HVAC-System
 
 
-# LoRA_finetuning
+# LoRA_Finetuning 
 https://github.com/PengxuanW/code_gen_with_LoRA_finetuning
 
 
