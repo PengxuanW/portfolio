@@ -5,7 +5,7 @@ Welcome to my personal portfolio! I am a new grad from University of California,
 
 Both my academic and professional journeys are fueled by a passion for technology and innovation. Here, you'll find a showcase of my projects, skills, and experiences that reflect my commitment to learning and growth in embedded systems, electronics designs, software development and machine learning. Whether it's designing systems, coding applications, or exploring new tech frontiers, I am excited to share my work and progress with you. Thank you for visiting and happy exploring!
 
-These projects involve various programming languages namingly: Python, Java, C/C++, and Swift. Some projects are done individually by me, and some projects are done collaboratively. 
+These projects involve various programming languages, namingly Python, Java, C/C++, Swift, and SQL. Some projects are done individually by me, and some projects are done collaboratively. 
 
 ##### Table of Contents  
 [Electronics_Subsystem_Identification](#electronics_subsystem_identification)  
@@ -14,7 +14,8 @@ These projects involve various programming languages namingly: Python, Java, C/C
 [Text_Editor](#text_editor)  
     
 # Electronics_Subsystem_Identification
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="200"/>
+An algorithm / solution oriented program done in a 4-member group. The project aims to detect matched sub-systems as part of a large scale electronics system. Example: IC board and PCB systems. In order to represent a real-world electronics sytem, I proposed an abstraction view that used a graph structure of nodes and edges as the physical components and wire connections. With a graph topology, we applied different algorithms such as a modified BFS, Graph NN, and decision trees to detect the existence of sub-systems / sub-graphs. We used graph algorithms such as the "infamous" Dijkstra's and Kruskal's algorithms to extract useful features in different graphs. We also experimented with advanced graph theory ideas such as 1. Kőnig’s theorem to detect matchings (a graph feature), 2. chordal graphs to define a specific lexicographicBFS ordering as a unique feature, and 3. graph centrality and k-core numbers to detect a densely connected component. 
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="800"/>
 
 
 # Micro_HVAC_System
