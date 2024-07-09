@@ -25,17 +25,19 @@ representing circuits and electronics as graph structure abstractions
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="overview" width="800"/>
 
 the program takes in csv and json files as graph inputs that record their features and attributes
-[graphTableInput][https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphTable.png?raw=true]
+![graphTableInput][https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphTable.png?raw=true]
 
 exploring the graph structures with BFS and feature analysis for applying decision tree
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceBFSAlgo.png" alt="bfs" width="400"/>
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceDecisionTree.png" alt="dt" width="400" height="600"/>
+
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceBFSAlgo.png" alt="bfs" width="400"/> <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceDecisionTree.png" alt="dt" width="400" height="600"/>
 
 displaying graphs and search results. 
 for small graphs: 
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CandenceSmallDisplay.png" alt="bfs" width="400"/>
+
 for larger graphs (when the there are more than 30 vertices, graph becomes too crowded, so need some abstraction): 
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceLargeDisplay.png" alt="bfs" width="400"/>
+
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceLargeDisplay.png" alt="bfs"/>
 
 
 
