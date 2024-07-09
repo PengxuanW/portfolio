@@ -12,10 +12,31 @@ These projects involve various programming languages, namingly Python, Java, C/C
 [Micro_HVAC_System](#micro_hvac_system)  
 [LoRA_Finetuning](#lora_finetuning)  
 [Text_Editor](#text_editor)  
+[Hydro_Homie_Iphone_App](#hydro_homie_iphone_app)
     
 # Electronics_Subsystem_Identification
-An algorithm / solution oriented program done in a 4-member group. The project aims to detect matched sub-systems as part of a large scale electronics system. Example: IC board and PCB systems. In order to represent a real-world electronics sytem, I proposed an abstraction view that used a graph structure of nodes and edges as the physical components and wire connections. With a graph topology, we applied different algorithms such as a modified BFS, Graph NN, and decision trees to detect the existence of sub-systems / sub-graphs. We used graph algorithms such as the "infamous" Dijkstra's and Kruskal's algorithms to extract useful features in different graphs. We also experimented with advanced graph theory ideas such as 1. Kőnig’s theorem to detect matchings (a graph feature), 2. chordal graphs to define a specific lexicographicBFS ordering as a unique feature, and 3. graph centrality and k-core numbers to detect a densely connected component. 
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="drawing" width="800"/>
+An algorithm / solution oriented program done in a 4-member group. The project aims to detect matched sub-systems as part of a large scale electronics system. Example: Checking and locating if mesh of connection exists in IC board and PCB systems. In order to represent a real-world electronics sytem, I proposed an abstraction view that used a graph structure of nodes and edges as the physical components and wire connections. With a graph topology, we applied different algorithms such as a modified BFS, Graph NN, and decision trees to detect the existence of sub-systems / sub-graphs. We used graph algorithms such as the "infamous" Dijkstra's and Kruskal's algorithms to extract useful features in different graphs. We also experimented with advanced graph theory ideas such as 1. Kőnig’s theorem to detect matchings (a graph feature), 2. chordal graphs to define a specific lexicographicBFS ordering as a unique feature, and 3. graph centrality and k-core numbers to detect a densely connected component. 
+
+Tools used:
+1. Intellij Idea for Java IDE
+2. Python IDE and Tensorflow pip package for ML tasks
+
+representing circuits and electronics as graph structure abstractions
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="overview" width="800"/>
+
+the program takes in csv and json files as graph inputs that record their features and attributes
+[graphTableInput][https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphTable.png?raw=true]
+
+exploring the graph structures with BFS and feature analysis for applying decision tree
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceBFSAlgo.png" alt="bfs" width="400"/>
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceDecisionTree.png" alt="dt" width="400" height="600"/>
+
+displaying graphs and search results. 
+for small graphs: 
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CandenceSmallDisplay.png" alt="bfs" width="400"/>
+for larger graphs (when the there are more than 30 vertices, graph becomes too crowded, so need some abstraction): 
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceLargeDisplay.png" alt="bfs" width="400"/>
+
 
 
 # Micro_HVAC_System
@@ -73,4 +94,4 @@ The program uses a custom EditorModel class to maintain the underlying data - th
 
 ![alt text](https://github.com/PengxuanW/portfolio/blob/main/images/Screenshot%202024-06-14%20183854.png?raw=true)
 
-bold test
+# Hydro_Homie_Iphone_App
