@@ -18,8 +18,8 @@ These projects involve various programming languages, namingly Python, Java, C/C
 An algorithm / solution oriented program done in a 4-member group. The project aims to detect matched sub-systems as part of a large scale electronics system. Example: Checking and locating if mesh of connection exists in IC board and PCB systems. In order to represent a real-world electronics sytem, I proposed an abstraction view that used a graph structure of nodes and edges as the physical components and wire connections. With a graph topology, we applied different algorithms such as a modified BFS, Graph NN, and decision trees to detect the existence of sub-systems / sub-graphs. We used graph algorithms such as the "infamous" Dijkstra's and Kruskal's algorithms to extract useful features in different graphs. We also experimented with advanced graph theory ideas such as 1. Kőnig’s theorem to detect matchings (a graph feature), 2. chordal graphs to define a specific lexicographicBFS ordering as a unique feature, and 3. graph centrality and k-core numbers to detect a densely connected component. 
 
 Tools used:
-1. Intellij Idea for Java IDE
-2. Python IDE and Tensorflow pip package for ML tasks
+1. Intellij Idea for Java
+2. Python and Tensorflow pip package for ML tasks
 
 representing circuits and electronics as graph structure abstractions
 <img src="https://github.com/PengxuanW/portfolio/blob/main/images/CadenceGraphIntro.png" alt="overview"/>
@@ -33,7 +33,7 @@ exploring the graph structures with BFS and feature analysis for applying decisi
 
 displaying graphs and search results. 
 for small graphs displayed to maximize visibility in connections between nodes: 
-<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CandenceSmallDisplay.png" alt="bfs"/>
+<img src="https://github.com/PengxuanW/portfolio/blob/main/images/CandenceSmallDisplay.png" alt="bfs" width="500"/>
 
 for larger graphs (when the there are more than 30 vertices, graph becomes too crowded, so I abstracted the connections / edges away. Only the matching vertices and edges are displayed. If the users want to see the original connections, they can click on the components and edges to inspect their attributes individually). : 
 
