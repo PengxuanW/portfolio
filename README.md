@@ -46,7 +46,7 @@ for larger graphs (when the there are more than 30 vertices, graph becomes too c
 # Micro_HVAC_System
 https://github.com/PengxuanW/Mock-HVAC-System
 
-This is a microcontroller & IoT system oriented project to mimick a Heating, Ventilation, Air Conditioning system. 
+This is a microcontroller & IoT system oriented project to mimick a Heating, Ventilation, Air Conditioning system, done individually. 
 Tools used: 
 
 1. a RaspberryPi 4B as the main microcontroller, RaspberryPi OS
@@ -74,7 +74,7 @@ demo video link (Google Drive link):
 # LoRA_Finetuning 
 https://github.com/PengxuanW/code_gen_with_LoRA_finetuning
 
-A research project to finetune the Llama 2 7B large language model (LLM) and improve its coding ability, specifically Python code in algorithm and data structure related programs.
+A research project done in a 5-member group to finetune the Llama 2 7B large language model (LLM) and improve its coding ability, specifically Python code in algorithm and data structure related programs.
 LLMs have revolutionary productivity in modern workflows, particularly in code generation. However, a lot of more widely used open-source models still focus on traditional
 tasks. They do little training and optimization for code generation tasks. Llama 2 underperforms on code generation, as indicated by the Human-Eval pass@k code benchmark below (only 12.8% acceptance rate at 1st code generation and 45.6% acceptance rate after 100 instances). The Human-Eval pass@k metric [link][https://www.github.com/openai/human-eval] is an improved way of evaluating code correctness from the traditional match-based methods. The project uses finetuning on the LLM instead of training a completely new machine learning model to take advantage of its reduced requirement on memory and time, while achieving similar performance with less finetuning dataset. 
 
@@ -84,12 +84,16 @@ Tools used:
 2. AlphaCode and Evol-Instruct-Code-80k-v1 to obtain and generate the dataset
 3. Python programming language and packages including torch, transformers, peft, and accelerate 
 
+research paper: [link](https://github.com/PengxuanW/code_gen_with_LoRA_finetuning/blob/main/Model%20Performance%20and%20Results%20Report.pdf)
+
+
+
 
 
 # Text_Editor
 https://github.com/PengxuanW/TextEditorProject
 
-A programming project in C++ called BooEdit.
+A solo programming project in C++ called BooEdit.
 This project implements a simpler version of typical editors like vim or emacs. While it doesn't handle txt-file loading or saving, this program implements key features such as cursor movement, text insertion, deletion, and undo/redo functionality. BooEdit serves as a basis for exploring important C++ and object-oriented programming concepts. These include using C++ Standard Library classes to manage memory, handling exceptions safely, employing abstract base classes for customizable implementations, and implementing the Command pattern for undoable actions. BooEdit is partially implemented, requiring contributions to specific parts, simulating a common real-world software development scenario.
 
 Tools used: 
@@ -133,10 +137,11 @@ The program uses a custom EditorModel class to maintain the underlying data - th
 
 # Hydro_Homie_Iphone_App
 
-An iOS based app. 
-## Technologies used
+An iOS based app implemented in a 4-member team. This is a wellness app that focuses on college students' hydration, exercise, and sleep habits. 
+## Tools used
 - Firebase DB
 - Swift Programming Language and Xcode
 - iOS Health App
 
 Resources are included in the project report
+report: [link](https://github.com/PengxuanW/HydroHomieIphoneApp/blob/main/HydroHomieReport.pdf)
