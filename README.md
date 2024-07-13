@@ -152,10 +152,14 @@ The program uses a custom EditorModel class to maintain the underlying data - th
 https://github.com/PengxuanW/HydroHomieIphoneApp
 
 An iOS based app implemented in a 4-member team. This is a wellness app that focuses on college students' hydration, exercise, and sleep habits. 
+This full stack project records the user's personal and contextual information (age, gender, weight, location, time of day, etc.) in a Firebase web database. The app sends daily recommendations, reminder notifications, and wellness suggestion messages based on the user's time of day and geographical location. All messages and displays are personalized to the individual users based on their recorded personal profiles. 
+
 ## Tools used
 - Firebase DB
 - Swift Programming Language and Xcode
 - iOS Health App
+
+![diagram](https://github.com/PengxuanW/portfolio/blob/main/images/hydroHomieDiagram.png)
 
 Resources are included in the project report
 report: [link](https://github.com/PengxuanW/HydroHomieIphoneApp/blob/main/HydroHomieReport.pdf)
